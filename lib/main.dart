@@ -21,7 +21,7 @@ class Quizzler extends StatelessWidget {
         body: SafeArea(
           child: Padding(
             padding: const EdgeInsets.symmetric(horizontal: 10),
-            child: QuizPage(),
+            child: QuizPage()
           ),
         ),
       ),
